@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Questrial);
-@import url(https://fonts.googleapis.com/css?family=Lobster);
-@import url(https://fonts.googleapis.com/css?family=Oswald:200);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200|Quicksand);
 
 html, body {
   height: 100%;
@@ -35,14 +33,14 @@ h1 {
 }
 
 h2 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Quicksand', sans-serif;;
   color: #fff;
   font-size: 1.5em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Quicksand', sans-serif;;
   font-size: 1.5em;
   margin-top: .5em;
 }
