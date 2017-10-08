@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
 @import url(https://fonts.googleapis.com/css?family=Questrial);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 
 html, body {
   height: 100%;
@@ -26,7 +27,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Lobster', cursive;
   color: #fff;
 }
 
@@ -41,7 +42,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Lobster', cursive;
   font-size: 1.5em;
   margin-top: .5em;
 }
