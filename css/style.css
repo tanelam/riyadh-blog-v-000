@@ -8,7 +8,6 @@ html, body {
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
-  opacity: .4; 
   background-attachment: fixed;
   font-family: 'Oswald', sans-serif;
   font-size: 100%;
