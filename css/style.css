@@ -6,6 +6,8 @@ html, body {
 }
 
 body {
+  style=opacity:0.4; 
+  style=opacity:1.0;
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
